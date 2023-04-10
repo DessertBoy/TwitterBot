@@ -13,3 +13,11 @@ This is a personal project. I decided to share it with the public in case anybod
 <br />
 
 3. You must create a Twitter developer account in order to obtain access to Twitter's API. This [link](https://developer.twitter.com/en/support/twitter-api/developer-account) goes into detail on how to apply for a Twitter developer account.
+
+# Resources
+
+### Changing the Genre ID
+The video below will demonstrate how to obtain the genre ID for any genre on allmusic.com in case you'd like to add/change genres.
+
+
+https://user-images.githubusercontent.com/56139759/226225000-f4def5eb-88c7-4b15-a325-20c008345d26.mp4
