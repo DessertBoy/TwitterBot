@@ -25,6 +25,6 @@ The video below will demonstrate how to obtain the genre ID for any genre on all
 https://user-images.githubusercontent.com/56139759/231022979-afa485ee-d2e9-4d25-81df-074d08e121af.mp4
 
 ### Documentation
-* [Tweepy Documentation](https://docs.tweepy.org/en/stable/))
+* [Tweepy Documentation](https://docs.tweepy.org/en/stable/)
 * [Beautiful Soup documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
 * [requests documentation](https://requests.readthedocs.io/en/latest/user/quickstart/)
