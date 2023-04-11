@@ -19,10 +19,9 @@ This is a personal project. I decided to share it with the public in case anybod
 ### Changing the Genre ID
 The video below will demonstrate how to obtain the genre ID for any genre on allmusic.com in case you'd like to add/change genres.
 
-
-
-
 https://user-images.githubusercontent.com/56139759/231022979-afa485ee-d2e9-4d25-81df-074d08e121af.mp4
+
+[How to Run a Python Script with Windows Task Scheduler](https://www.youtube.com/watch?v=4n2fC97MNac)
 
 ### Documentation
 * [Tweepy Documentation](https://docs.tweepy.org/en/stable/)
