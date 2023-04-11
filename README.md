@@ -20,4 +20,7 @@ This is a personal project. I decided to share it with the public in case anybod
 The video below will demonstrate how to obtain the genre ID for any genre on allmusic.com in case you'd like to add/change genres.
 
 
-https://user-images.githubusercontent.com/56139759/226225000-f4def5eb-88c7-4b15-a325-20c008345d26.mp4
+
+
+https://user-images.githubusercontent.com/56139759/231022979-afa485ee-d2e9-4d25-81df-074d08e121af.mp4
+
