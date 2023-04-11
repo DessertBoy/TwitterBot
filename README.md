@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/56139759/231022979-afa485ee-d2e9-4d25-
 
 <br />
 
-[How to Run a Python Script with Windows Task Scheduler](https://www.youtube.com/watch?v=4n2fC97MNac)
+[How to Run a Python Script with Windows Task Scheduler](https://www.youtube.com/watch?v=4n2fC97MNac). Windows Task Scheduler is what I use to run my python script every hour.
 
 ### Documentation
 * [Tweepy Documentation](https://docs.tweepy.org/en/stable/)
