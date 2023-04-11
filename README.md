@@ -21,6 +21,8 @@ The video below will demonstrate how to obtain the genre ID for any genre on all
 
 https://user-images.githubusercontent.com/56139759/231022979-afa485ee-d2e9-4d25-81df-074d08e121af.mp4
 
+<br />
+
 [How to Run a Python Script with Windows Task Scheduler](https://www.youtube.com/watch?v=4n2fC97MNac)
 
 ### Documentation
