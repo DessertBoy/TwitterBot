@@ -59,7 +59,7 @@ class WebScraper:
         This function will help us select a random genre from our four parent genre.
         """
 
-        electronic = {'Acid House':'filters%5B%5D=%26subgenre%3DMA0000005001&filters%5B%5D=%26subgenreBooleanOperator%3DOR&sort=',
+        electronic = {'Acid House':'filters%5B%5D=%26subgenre%3DMA0000013621&filters%5B%5D=%26subgenreBooleanOperator%3DOR&sort=',
                     'Chicago House':'filters%5B%5D=%26subgenre%3DMA0000002507&filters%5B%5D=%26subgenreBooleanOperator%3DOR&sort=',
                     'Deep House':'filters%5B%5D=%26subgenre%3DMA0000013621&filters%5B%5D=%26subgenreBooleanOperator%3DOR&sort=',
                     'dubstep':'filters%5B%5D=%26subgenre%3DMA0000004465&filters%5B%5D=%26subgenreBooleanOperator%3DOR&sort=',
@@ -193,26 +193,3 @@ class WebScraper:
          for artist,album in self.discography.items():
             for name in album:
                 self.album_names.append(f'{name} by {artist}')
-
-    
-    def album_search(self):
-        """
-        
-
-        
-
-        random_page_number: The page number our scrapper will scrape from.
-        parser: The type of parser we will be using
-        element: HTTP element
-        class_name: name of the HTTP element class
-        class_name2: name of the HTTP element class
-        """
-
-        #Assigning the random page number that we will be scraping from
-
-
-        #To change the headers you are going to have to go back to the website and inspect the page again, depending on the genre you want. You will find the filter in Inspect>Network>
-        #On the search bar search for "results" and click on "results/". From there a window will pop up, click on the "Payload" tab, and click on "view source".
-
-
-        # return discography
