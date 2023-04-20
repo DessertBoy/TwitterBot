@@ -1,6 +1,7 @@
 # TwitterBot
 This is the python syntax for the Twitter bot [@5HourlyAlbums](https://twitter.com/5HourlyAlbums) on Twitter. @5HourlyAlbums is designed to tweet 5 random albums from 40 different genres every day from 5 a.m. - 10 p.m.
 
+The wesbite we will be scrapping music from (allmusic.com) is an AJAX website. We will need to send a post request straight to the database where this website retrieves its data from. I will post a video below to demonstrate how to obtain the genre ID and headers.
 
 This is a personal project. I decided to share it with the public in case anybody would like to create something similar and is looking for a reference or base. I have included links to the documentation for the libraries I used.
 
