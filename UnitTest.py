@@ -60,27 +60,27 @@ class TestTwitterBot(unittest.TestCase):
         self.assertIsInstance(self.scrappy.scrape(),dict)
 
 
-    @patch("AllMusicScraper_v2.requests")
+    @patch("AllMusicScraper.requests")
     def test_general_exception(self,mock_request):
         mock_request.exceptions = requests.exceptions
         mock_request.post.side_effect = RequestException("Exception Error")
         self.assertEqual(self.scrappy.scrape(),"Excpetion error, please review requests.post inside self.scrape().")
 
-    @patch("AllMusicScraper_v2.requests")
+    @patch("AllMusicScraper.requests")
     def test_timeout_exception(self,mock_request):
 
         mock_request.exceptions = requests.exceptions
         mock_request.post.side_effect = Timeout("Looks your connection timed out")
         self.assertEqual(self.scrappy.scrape(),"Looks like the connection timed out. Please review requests.post inside self.scrape().")
 
-    @patch("AllMusicScraper_v2.requests")
+    @patch("AllMusicScraper.requests")
     def test_connection_exception(self,mock_request):
 
         mock_request.exceptions = requests.exceptions
         mock_request.post.side_effect = ConnectionError("Looks like there was a connection error")
         self.assertEqual(self.scrappy.scrape(),"Looks like there was a connection error. Please review requests.post inside self.scrape().")
 
-    @patch("AllMusicScraper_v2.requests")
+    @patch("AllMusicScraper.requests")
     def test_httperror_exception(self,mock_request):
 
         mock_request.exceptions = requests.exceptions
