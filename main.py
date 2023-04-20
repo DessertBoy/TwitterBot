@@ -1,4 +1,4 @@
-from AllMusicScraper_v2 import WebScraper
+from AllMusicScraper import WebScraper
 import tweepy
 from random import randint,sample
 
