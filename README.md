@@ -5,7 +5,7 @@ The wesbite we will be scrapping music from (allmusic.com) is an AJAX website. W
 
 This is a personal project. I decided to share it with the public in case anybody would like to create something similar and is looking for a reference or base. I have included links to the documentation for the libraries I used.
 
-**Note:** The UnitTest.py is not needed for anything. It was created/used for testing purposes.
+**Note:** UnitTest.py is not necessary for anything to work. It was created/used for testing purposes.
 
 # Requirements
 1. Have basic/intermediate knowledge of Python.
